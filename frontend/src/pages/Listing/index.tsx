@@ -14,12 +14,14 @@ function Listing() {
         axios.get(`${BASE_URL}/movies?size=12&page=0`)
             .then(response => {
                 const data = response.data as MoviePage;
+                console.log(data);
                 setPageNumber(data.number);
             });
     }, []);
 
     return (
         <>
+            <p>{pageNumber}</p>
             <Pagination />
 
             <div className="container">
