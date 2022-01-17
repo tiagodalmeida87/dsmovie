@@ -1,12 +1,12 @@
 ## DSMovie - Semana Spring React 2022
 
 ###### home – DSMovie
-![home_page]()
+![home_page](https://github.com/tiagodalmeida87/dsmovie/blob/main/img/home_dsmovie-tiagoalmeida.jpg)
 
 ###### avaliação de filme – DSMovie
-![Dashboard]()
+![Dashboard](https://github.com/tiagodalmeida87/dsmovie/blob/main/img/avaliacao_filme.jpg)
 
-
+---
 ### O projeto
 
 **O DSMovie** - é um Homepage que apresenta diversos filmes, no qual você pode avaliá-lo dando a sua nota, então não perca tempo e acesse: 
@@ -19,13 +19,13 @@ Nesse projeto utilizamos o Spring no back end e React no front end, seguindo as 
 
 ---
 ###### deploys_GitHub – dsmovie-tiagoalmeida
-![deploys]()
+![deploys](https://github.com/tiagodalmeida87/dsmovie/blob/main/img/deploy_netlify.jpg)
 
 
 ###### consulta_BD_Heroku_via_Postman – dsmovie-tiagoalmeida
-![Consulta a BD Heroku]()
+![Consulta a BD Heroku](https://github.com/tiagodalmeida87/dsmovie/blob/main/img/consulta_Heroku.jpg)
 
-
+---
 ### TECNOLOGIAS 🖥️
 
 #### Website  
@@ -41,7 +41,7 @@ Nesse projeto utilizamos o Spring no back end e React no front end, seguindo as 
 - Postman
 - GitHub
 
-
+---
 ### AGRADECIMENTOS
 **DSMovie** é um projeto desenvolvido na Semana Spring React oferecida pela [DEVSUPERIOR](https://devsuperior.com.br/), através do instrutor [Nelio Alves](https://www.instagram.com/devsuperior.ig/).
 
