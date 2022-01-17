@@ -1,4 +1,4 @@
-## DSMovie - Semana Spring React 2022
+## DSMovie - Semana Spring React | Jan/2022
 
 ### O projeto
 
