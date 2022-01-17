@@ -2,7 +2,7 @@
 
 ### O projeto
 
-**O DSMovie** - é um Homepage que apresenta diversos filmes, no qual você pode avaliá-lo dando a sua nota, então não perca tempo e acesse: 
+**O DSMovie** - é um Homepage que apresenta diversos filmes no catálogo, no qual você pode avaliá-lo dando a sua nota, então não perca tempo e acesse: 
 
 Acesso ao ⏩ [DSMovie - Tiago Almedida](https://dsmovie-tiagoalmeida.netlify.app/) 
 
