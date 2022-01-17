@@ -1,12 +1,5 @@
 ## DSMovie - Semana Spring React 2022
 
-###### home – DSMovie
-![home_page](https://github.com/tiagodalmeida87/dsmovie/blob/main/img/home_dsmovie-tiagoalmeida.jpg)
-
-###### avaliação de filme – DSMovie
-![Dashboard](https://github.com/tiagodalmeida87/dsmovie/blob/main/img/avaliacao_filme.jpg)
-
----
 ### O projeto
 
 **O DSMovie** - é um Homepage que apresenta diversos filmes, no qual você pode avaliá-lo dando a sua nota, então não perca tempo e acesse: 
@@ -17,11 +10,19 @@ Nesse projeto utilizamos o Spring no back end e React no front end, seguindo as 
 
 > Status do Projeto: Concluido :heavy_check_mark:
 
+###### home – DSMovie
+![home_page](https://github.com/tiagodalmeida87/dsmovie/blob/main/img/home_dsmovie-tiagoalmeida.jpg)
+
+---
+###### avaliação de filme – DSMovie
+![Dashboard](https://github.com/tiagodalmeida87/dsmovie/blob/main/img/avaliacao_filme.jpg)
+
+
 ---
 ###### deploys_GitHub – dsmovie-tiagoalmeida
 ![deploys](https://github.com/tiagodalmeida87/dsmovie/blob/main/img/deploy_netlify.jpg)
 
-
+---
 ###### consulta_BD_Heroku_via_Postman – dsmovie-tiagoalmeida
 ![Consulta a BD Heroku](https://github.com/tiagodalmeida87/dsmovie/blob/main/img/consulta_Heroku.jpg)
 
